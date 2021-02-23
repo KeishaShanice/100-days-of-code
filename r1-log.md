@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [February 21, Sunday, 2021].
 Worked on Battleship game. Coded the HTML and worked on the CSS.
 
 ### R1D2
+Worked on JS pseudocode for Battleship game.
